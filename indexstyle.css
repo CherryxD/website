@@ -25,15 +25,26 @@ a:hover, a:active {
   color: gray;
 }
 
+address {
+	font-size:18px;
+	font-family: 'Libre Baskerville';
+}
 b {
 	color: gray;
 }
 
 
-
 em {
 	font-family: 'Libre Baskerville';
 	font-size: 18px;
+}
+b1 {
+	font-family: 'Libre Baskerville';
+	font-size: 26px;
+}
+b2 {
+	font-family: 'Libre Baskerville';
+	font-size: 14px;
 }
 
 .sidenav {
@@ -53,4 +64,14 @@ em {
 	font-size: 22px;
 	letter-spacing: 3px;
 	margin: 35px;
+}
+
+.link a {
+	font-family: 'Libre Baskerville';
+	font-size: 18px;
+}
+
+.images {
+	height:400px;
+	box-sizing:border-box;
 }
